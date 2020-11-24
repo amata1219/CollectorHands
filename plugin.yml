@@ -1,0 +1,11 @@
+name: CollectorHands
+main: amata1219.collector.hands.CollectorHands
+version: 1.0.0
+author: amata1219(Twitter@amata1219)
+
+commands:
+  givemc:
+    description: main command.
+    usage: /<command>
+    permission: collector.hands.mc
+    permission-message: You do not have permission.
